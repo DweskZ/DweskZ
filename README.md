@@ -44,13 +44,12 @@
 
 ### 📫 Contact Me
 
-- 📧 dwesk.dev@gmail.com
+- 📧 lfdwesk@gmail.com
 - 🌍 Based in Manta, Ecuador 🇪🇨
 - 🚀 Open to **remote internships or junior developer roles**
 
 ---
 
-### ✨ Quote I Like
 
 > “Some of us think holding on makes us strong; but sometimes it is letting go.”  
 > — Hermann Hesse
