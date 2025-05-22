@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./dwesk.gif" width="170" alt="Dwesk en modo código">
+  <img src="./dwesk.gif" width="120" alt="Dwesk en modo código">
 </p>
 
 <h2 align="center">Hola, soy Dwesk 👋</h2>
