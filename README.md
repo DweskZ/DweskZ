@@ -1,4 +1,3 @@
-![giphy](https://github.com/user-attachments/assets/8d86f906-1bb7-4fd9-aeaa-7aef1de37a7b)<!-- Banner (opcional) -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation">
 </p>
