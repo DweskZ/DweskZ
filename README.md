@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Hola, soy Dwesk 👋</h2>
-<p align="center">Construyendo sistemas con enfoque e introspección 🧩</p>
+<p align="center">Software Engineering🧩</p>
 
 ---
 
