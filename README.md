@@ -1,41 +1,63 @@
-# 
+<!-- Banner (opcional) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation">
+</p>
+
+<h1 align="center">Hey, I'm Dwesk 👋</h1>
+
+<p align="center">
+  <strong>Software enthusiast from Ecuador 🇪🇨 — building meaningful systems with a pragmatic mindset.</strong>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Software Engineering student @ ULEAM | 5th semester
-- 💼 3 years of experience in logistics and admin in the shrimp industry — I learned to solve problems with clarity and discipline
-- 🌐 I enjoy working on web systems, distributed databases, and gamified interfaces
-- 🎮 Game dev hobbyist with a love for narrative design and systems logic
-- 🚀 Always learning — always building
+- 🎓 Student of Software Engineering @ ULEAM (5th semester)
+- 💼 Former admin in the shrimp industry — 3 years solving problems with data, logistics, and people
+- 👨‍💻 Interested in web systems, distributed databases, and game mechanics
+- 🕹️ Tinkering with game development and gamified fitness tools
+- 🌍 Learning every day, contributing when I can
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack & Tools
 
-HTML • CSS • JavaScript • Vue.js • TypeScript  
-Python • PostgreSQL • MySQL • Cassandra  
-Docker • Git • Figma
-
----
-
-## 🔧 Featured Projects
-
-- **University Dorm System**: Web app for room and student management — migrating to Vue.js
-- **Email Server Setup**: Simulated infrastructure with Postfix, Dovecot, and Zimbra
-- **Distributed DB Prototype**: Cassandra-based academic DB with geo-distributed nodes
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,python,postgresql,mysql,cassandra,docker,git,figma" />
+</p>
 
 ---
 
-## 🌱 Currently Exploring
+## 🚀 Featured Projects
 
-- ⚙️ CI/CD with GitHub Actions  
-- 📊 Dashboards for real-time monitoring  
-- 🤖 AI-powered assistants and tools for education
+🛏️ **University Dorm System**  
+_Full-stack app to manage students, rooms, and payments — now migrating to Vue.js._  
+
+📬 **Email Server Simulation**  
+_Configured Postfix, Dovecot and Zimbra for secure email communication in a lab environment._  
+
+🌐 **Distributed DB Prototype**  
+_Cassandra-based academic model representing a university with regional extensions._
 
 ---
 
-> _“Some of us think holding on makes us strong; but sometimes it is letting go.”_  
-> — Hermann Hesse
+## 📈 What I'm Doing Now
+
+- ⚙️ Building dashboards with Vue + Docker  
+- 🔐 Integrating auth and CI/CD in student projects  
+- 🎯 Writing code with purpose, not just passing assignments
+
+---
+
+## 🧩 Quote
+
+> "_Some of us think holding on makes us strong; but sometimes it is letting go._"  
+> — **Hermann Hesse**
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DweskZ&show_icons=true&theme=github_dark&hide_border=true" alt="DweskZ GitHub Stats">
+</p>
 
