@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Hola, soy Dwesk 👋</h2>
-<p align="center">Software Engineering🧩</p>
+<p align="center">Software Engineering ☘️</p>
 
 ---
 
@@ -18,22 +18,10 @@
 
 ### 🛠️ Stack
 
-HTML · CSS · JavaScript · TypeScript · Vue.js · Python  
-PostgreSQL · MySQL · Cassandra · Docker · Git · Figma
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,python,postgresql,mysql,cassandra,docker,git,figma" />
+</p>
 ---
-
-### 📁 Proyectos
-
-- 🛏️ **Sistema de Residencia Universitaria**  
-  Web para gestión de estudiantes, habitaciones y pagos. Actualmente migrando a Vue.
-
-- 📬 **Servidor de Correos Académico**  
-  Configuración de Postfix, Dovecot y Zimbra para simular una infraestructura de correo funcional.
-
-- 🌍 **Base de Datos Distribuida**  
-  Modelo con Cassandra para simular una universidad con extensiones geográficas.
-
 
 > "_Crear es vivir dos veces._"  
 > — Albert Camus
