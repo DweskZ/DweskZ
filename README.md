@@ -1,6 +1,6 @@
 <!-- Banner introspectivo -->
 <p align="center">
-  <img src="https://media.giphy.com/media/1M7drqJHpCENqKN5JK/giphy.gif" width="480" alt="Coding solitude">
+  <img src="/dwesk.gif" width="480" alt="Coding solitude">
 </p>
 
 <h1 align="center">Hey, I'm Dwesk 👋</h1>
