@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./dwesk.gif" width="320" alt="Dwesk dev in solitude">
+  <img src="./dwesk.gif" width="200" alt="Dwesk dev in solitude">
 </p>
 
 <h2 align="center">Hey, I'm Dwesk 👋</h2>
@@ -20,6 +20,5 @@ HTML · CSS · JS · TS · Vue · Python · PostgreSQL · Cassandra · Docker ·
 🛏️ Dorm System · 💌 Email Server Lab · 🌍 Distributed Uni DB
 
 📊 Currently working with dashboards & CI/CD  
-🎮 Game dev in progress | Fitness app w/ gamification
 
 📝 "_Holding on makes us strong; but sometimes it's letting go._" — Hermann Hesse
