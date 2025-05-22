@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation">
+  <img src="https://github.com/user-attachments/assets/b04f6643-95e5-493a-8e3a-bb764bb2d2d7
+" width="500" alt="Coding animation">
 </p>
 
 <h1 align="center">Hey, I'm Dwesk 👋</h1>
