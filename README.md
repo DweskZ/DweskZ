@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./dwesk.gif" width="320" alt="Dwesk en modo código">
+  <img src="./dwesk.gif" width="170" alt="Dwesk en modo código">
 </p>
 
 <h2 align="center">Hola, soy Dwesk 👋</h2>
@@ -34,17 +34,6 @@ PostgreSQL · MySQL · Cassandra · Docker · Git · Figma
 - 🌍 **Base de Datos Distribuida**  
   Modelo con Cassandra para simular una universidad con extensiones geográficas.
 
----
-
-### 🔧 En qué estoy trabajando
-
-- Dashboards con autenticación y monitoreo en tiempo real  
-- Integración de CI/CD con GitHub Actions  
-- App gamificada para rutinas de entrenamiento
-
----
-
-### 📖 Frase favorita
 
 > "_Crear es vivir dos veces._"  
 > — Albert Camus
