@@ -1,6 +1,6 @@
 <!-- Banner (opcional) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFobzdrM3k5bXF6aG5ndGR3anU1dmRjajNrNGR2cnBtNmpjeTljZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FylQRlWk1dr8aHhdWH/giphy.gif)">
 </p>
 
 <h1 align="center">Hey, I'm Dwesk 👋</h1>
