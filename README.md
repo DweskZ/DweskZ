@@ -1,6 +1,4 @@
-# 👋 Hey, I'm Dwesk
-
-Software enthusiast with real-world experience and a passion for building systems that matter.
+# 
 
 ---
 
