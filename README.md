@@ -1,23 +1,23 @@
+<!-- Banner introspectivo -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b04f6643-95e5-493a-8e3a-bb764bb2d2d7
-" width="500" alt="Coding animation">
+  <img src="https://media.giphy.com/media/1M7drqJHpCENqKN5JK/giphy.gif" width="480" alt="Coding solitude">
 </p>
 
 <h1 align="center">Hey, I'm Dwesk 👋</h1>
 
 <p align="center">
-  <strong>Software enthusiast from Ecuador 🇪🇨 — building meaningful systems with a pragmatic mindset.</strong>
+  <strong>Software enthusiast from Ecuador — building systems with a thoughtful mindset.</strong>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Student of Software Engineering @ ULEAM (5th semester)
-- 💼 Former admin in the shrimp industry — 3 years solving problems with data, logistics, and people
-- 👨‍💻 Interested in web systems, distributed databases, and game mechanics
-- 🕹️ Tinkering with game development and gamified fitness tools
-- 🌍 Learning every day, contributing when I can
+- 🎓 Software Engineering student @ ULEAM (5th semester)
+- 💼 3 years working in shrimp industry logistics and admin — learned clarity, autonomy, and responsibility
+- 🌐 Passionate about backend, distributed databases, and gamified apps
+- 🎮 Game dev enthusiast — merging logic and storytelling
+- 🛠️ Currently working on dashboards, authentication flows, and CI/CD
 
 ---
 
@@ -31,26 +31,26 @@
 
 ## 🚀 Featured Projects
 
-🛏️ **University Dorm System**  
-_Full-stack app to manage students, rooms, and payments — now migrating to Vue.js._  
+**🛏️ University Dorm System**  
+_Full-stack system for student housing and payments. Now being migrated to Vue._
 
-📬 **Email Server Simulation**  
-_Configured Postfix, Dovecot and Zimbra for secure email communication in a lab environment._  
+**📬 Email Server Simulation**  
+_Set up Postfix, Dovecot, and Zimbra to replicate a functional mail server for academic purposes._
 
-🌐 **Distributed DB Prototype**  
-_Cassandra-based academic model representing a university with regional extensions._
-
----
-
-## 📈 What I'm Doing Now
-
-- ⚙️ Building dashboards with Vue + Docker  
-- 🔐 Integrating auth and CI/CD in student projects  
-- 🎯 Writing code with purpose, not just passing assignments
+**🌍 Distributed Database Prototype**  
+_A Cassandra-based university database with geo-distributed extensions._
 
 ---
 
-## 🧩 Quote
+## 🔭 Focused On
+
+- Clean backend architecture with TypeScript + Docker  
+- Real-time monitoring dashboards  
+- Designing systems with usability and scale in mind
+
+---
+
+## 📖 Favorite Quote
 
 > "_Some of us think holding on makes us strong; but sometimes it is letting go._"  
 > — **Hermann Hesse**
