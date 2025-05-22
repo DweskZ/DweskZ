@@ -1,24 +1,69 @@
 <p align="center">
-  <img src="./dwesk.gif" width="200" alt="Dwesk dev in solitude">
+  <img src="./dwesk.gif" width="320" alt="Dwesk en modo código">
 </p>
 
-<h2 align="center">Hey, I'm Dwesk 👋</h2>
-<p align="center">Building systems with focus and introspection 🧩</p>
+<h2 align="center">Hola, soy Dwesk 👋</h2>
+<p align="center">Construyendo sistemas con enfoque e introspección 🧩</p>
 
 ---
 
-🧠 **About Me**  
-🎓 5th semester Software Engineering @ ULEAM  
-🦐 3 years in logistics/admin in shrimp industry  
-🧪 Interested in backend, DBs & gamified UX  
-🛠️ Projects with Vue, TS, Docker, Cassandra  
+### 🧠 Sobre mí
 
-🔧 **Stack**  
-HTML · CSS · JS · TS · Vue · Python · PostgreSQL · Cassandra · Docker · Git · Figma
+- 🎓 Estudiante de Ingeniería en Software (5to semestre – ULEAM)
+- 🦐 3 años de experiencia en logística y administración en la industria camaronera
+- 🧩 Me interesa el desarrollo backend, las bases de datos distribuidas y las interfaces gamificadas
+- 🛠️ Trabajo con tecnologías como Vue, TypeScript, Docker y Cassandra
 
-🚀 **Projects**  
-🛏️ Dorm System · 💌 Email Server Lab · 🌍 Distributed Uni DB
+---
 
-📊 Currently working with dashboards & CI/CD  
+### 🛠️ Stack
 
-📝 "_Holding on makes us strong; but sometimes it's letting go._" — Hermann Hesse
+HTML · CSS · JavaScript · TypeScript · Vue.js · Python  
+PostgreSQL · MySQL · Cassandra · Docker · Git · Figma
+
+---
+
+### 📁 Proyectos
+
+- 🛏️ **Sistema de Residencia Universitaria**  
+  Web para gestión de estudiantes, habitaciones y pagos. Actualmente migrando a Vue.
+
+- 📬 **Servidor de Correos Académico**  
+  Configuración de Postfix, Dovecot y Zimbra para simular una infraestructura de correo funcional.
+
+- 🌍 **Base de Datos Distribuida**  
+  Modelo con Cassandra para simular una universidad con extensiones geográficas.
+
+---
+
+### 🔧 En qué estoy trabajando
+
+- Dashboards con autenticación y monitoreo en tiempo real  
+- Integración de CI/CD con GitHub Actions  
+- App gamificada para rutinas de entrenamiento
+
+---
+
+### 📖 Frase favorita
+
+> "_Crear es vivir dos veces._"  
+> — Albert Camus
+
+---
+
+```text
+
+    ;'*¨'`·- .,  ‘               ,., '                                       _,.,  °                 ,. -,                         _  °  
+    \`:·-,. ,   '` ·.  '       ,'   '`;                 ,·;'           ,.·'´  ,. ,  `;\ '         ,.·'´,    ,'\         ,.·,       :´¨   ;\   
+     '\:/   ;\:'`:·,  '`·, '    ;    ,':\     ,'´¨';     '; ;'\        .´   ;´:::::\`'´ \'\     ,·'´ .·´'´-·'´::::\'     ,'   ,'\     .'´ ,·´::'\  
+      ;   ;'::\;::::';   ;\    ;    ';::'\  ,'   ,'\   ,' ,'::'\      /   ,'::\::::::\:::\:'   ;    ';:::\::\::;:'      ;'  ,'::\ .·' .·´::::::;' 
+      ;  ,':::;  `·:;;  ,':'\'  ',    ';::;','    ,'::\,'  ,':::;     ;   ;:;:-·'~^ª*';\'´     \·.    `·;:'-·'´         ;  ;::·´ .·´:::::::;·´  
+     ;   ;:::;    ,·' ,·':::;   ';   ';:';,'     ;:::;' ,'::::;'     ;  ,.-·:*'´¨'`*´\::\ '     \:`·.   '`·,  '        ';  '´   ;´::::::;·´      
+     ;  ;:::;'  ,.'´,·´:::::;    ';  ';:;' ,:';  ';:;'  ,'::::;     ;   ;\::::::::::::'\;'        `·:'`·,   \'         ;  ;'\   '\::;·´          
+    ':,·:;::-·´,.·´\:::::;´'      ';  '·' ,'::';  '·´ ,':::::;      ;  ;'_\_:;:: -·^*';\         ,.'-:;'  ,·\       ;  ;:\:'·.  '·., ,.·';'     
+     \::;. -·´:::::;\;·´          \   /::::;\·-·'´\::::;·''      ';    ,  ,. -·:*'´:\:'\°  ,·'´     ,.·´:::'\      ;_;::'\::`·._,.·'´:\'     
+      \;'\::::::::;·´'              \'´\:::;'  '\::::'\;'´          \`*´ ¯\:::::::::::\;' '  \`*'´\::::::::;·'‘     \::'\:;' '·::\::\:::::'\    
+         `\;::-·´                   '\:'\:/     '·-·'´'              \:::::\;::-·^*'´        \::::\:;:·´           '\::\     `·'\::\;:·'´'    
+                                      '´                             `*´¯                   '`*'´‘                 ¯          ¯'         
+
+   Luis "Dwesk" Figueroa
