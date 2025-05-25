@@ -11,7 +11,6 @@
 
 - 🎓 Estudiante de Ingeniería en Software (5to semestre – ULEAM)
 - 🦐 3 años de experiencia en logística y administración en la industria camaronera
-- 🧩 Me interesa el desarrollo backend, las bases de datos distribuidas y las interfaces gamificadas
 - 🛠️ Trabajo con tecnologías como Vue, TypeScript, Docker y Cassandra
 
 ---
