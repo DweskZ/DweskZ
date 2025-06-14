@@ -2,7 +2,7 @@
   <img src="./dwesk.gif" width="120" alt="Dwesk en modo código">
 </p>
 
-<h2 align="center">Hola, un gusto Soy Luis Figueroa 👋</h2>
+<h2 align="center">Hola, Soy Luis Figueroa 👋</h2>
 <p align="center">Software Engineering ☘️</p>
 
 ---
