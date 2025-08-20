@@ -9,7 +9,7 @@
 
 ### 🧠 Sobre mí
 
-- 🎓 Estudiante de Ingeniería en Software (5to semestre – ULEAM)
+- 🎓 Estudiante de Ingeniería en Software (6to semestre – ULEAM)
 - 🦐 3 años de experiencia en logística y administración en la industria camaronera
 - 🛠️ Trabajo con tecnologías como Vue, TypeScript, Docker y Cassandra
 
