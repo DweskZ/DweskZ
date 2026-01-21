@@ -38,12 +38,12 @@ const luis = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DweskZ&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DweskZ&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DweskZ&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
@@ -51,13 +51,13 @@ const luis = {
 ### 🏆 Trofeos
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DweskZ&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&color=58A6FF&style=flat-square&label=Visitas+al+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=DweskZ&color=58A6FF&style=flat-square&label=Visitas+al+perfil" />
 </p>
 
 > "_Crear es vivir dos veces._"  
