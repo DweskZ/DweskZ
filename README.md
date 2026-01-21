@@ -42,23 +42,8 @@ const luis = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DweskZ&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DweskZ&theme=github-dark-blue&hide_border=true" />
-</p>
 
 ---
-
-### 🏆 Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DweskZ&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DweskZ&color=58A6FF&style=flat-square&label=Visitas+al+perfil" />
-</p>
 
 > "_Crear es vivir dos veces._"  
 > — Albert Camus
