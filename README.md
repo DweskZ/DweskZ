@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Luis+Figueroa+%F0%9F%91%8B;Software+Engineer+%E2%98%98%EF%B8%8F;Bienvenido+a+mi+perfil!" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <a href="www.linkedin.com/in/dweskz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:lfdwesk@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 ---
 
