@@ -2,29 +2,67 @@
   <img src="./dwesk.gif" width="120" alt="Dwesk en modo código">
 </p>
 
-<h2 align="center">Hola, Soy Luis Figueroa 👋</h2>
-<p align="center">Software Engineering ☘️</p>
-
----
-
-
-### 🛠️ Stack
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Luis+Figueroa+%F0%9F%91%8B;Software+Engineer+%E2%98%98%EF%B8%8F;Bienvenido+a+mi+perfil!" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,python,postgresql,mysql,cassandra,docker,git,figma" />
+  <a href="www.linkedin.com/in/dweskz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:lfdwesk@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
 ---
+
+### 🧑‍💻 Sobre mí
+
+```js
+const luis = {
+    ubicación: "Manta, Ecuador",
+    rol: "Software Engineer",
+    intereses: ["Desarrollo Web", "Desarrollo Movil", "Bases de Datos", "DevOps"],
+    aprendiendo: "Siempre algo nuevo 🚀",
+    filosofía: "Crear es vivir dos veces"
+};
+```
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,python,postgresql,mysql,cassandra,docker,git,figma&perline=6" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Trofeos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&color=58A6FF&style=flat-square&label=Visitas+al+perfil" />
+</p>
 
 > "_Crear es vivir dos veces._"  
 > — Albert Camus
 
----
-
-```text
-//  ________                             __    
-//  \______ \  __  _  __  ____    ______|  | __
-//   |    |  \ \ \/ \/ /_/ __ \  /  ___/|  |/ /
-//   |    `   \ \     / \  ___/  \___ \ |    < 
-//  /_______  /  \/\_/   \___  >/____  >|__|_ \
-//          \/               \/      \/      \/
-   Luis Figueroa
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer"/>
+</p>
