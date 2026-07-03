@@ -7,51 +7,49 @@
 
 <sub>SELECTED WORKS</sub>
 
-### 01 — Ecuador's open data, conversational
+<a href="https://github.com/DweskZ/EcuDataMCP">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-01-dark.svg">
+    <img src="./assets/works-01-light.svg" width="820" alt="01 — Ecuador's open data, conversational. ecudata-mcp (python, mcp): an MCP server that lets AI assistants search and analyze Ecuador's open government data through plain conversation.">
+  </picture>
+</a>
 
-<sub>[**ecudata-mcp**](https://github.com/DweskZ/EcuDataMCP) · python · mcp</sub>
+<a href="https://github.com/DweskZ/InterpreterMedicalTranslation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-02-dark.svg">
+    <img src="./assets/works-02-light.svg" width="820" alt="02 — Real-time medical interpretation. clinic-translate (python, whisper): EN-ES translation for clinical settings, transcribed live from system audio with Whisper, Deepgram and AssemblyAI engines.">
+  </picture>
+</a>
 
-An MCP server that lets AI assistants — Claude, ChatGPT, Cursor — search and analyze Ecuador's open government data through plain conversation.
+<a href="https://github.com/DweskZ/ExposiaClean">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-03-dark.svg">
+    <img src="./assets/works-03-light.svg" width="820" alt="03 — Better oral presentations, with AI. exposia (typescript, ai): PDF analysis, speech transcription and filler-word detection — an assistant that helps students improve how they present.">
+  </picture>
+</a>
 
----
+<a href="https://github.com/DweskZ/Cyber-Bug-Videogame">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-04-dark.svg">
+    <img src="./assets/works-04-light.svg" width="820" alt="04 — Cyber Bug. cyber-bug (godot 4, gdscript): an action platformer made for the OpenClaw meetup. Fight the boss, survive the chaos.">
+  </picture>
+</a>
 
-### 02 — Real-time medical interpretation
-
-<sub>[**clinic-translate**](https://github.com/DweskZ/InterpreterMedicalTranslation) · python · whisper</sub>
-
-EN ↔ ES translation for clinical settings, transcribed live from system audio with Whisper, Deepgram and AssemblyAI engines.
-
----
-
-### 03 — Better oral presentations, with AI
-
-<sub>[**exposia**](https://github.com/DweskZ/ExposiaClean) · typescript · ai</sub>
-
-PDF analysis, speech transcription and filler-word detection — an assistant that helps students improve how they present.
-
----
-
-### 04 — Cyber Bug
-
-<sub>[**cyber-bug**](https://github.com/DweskZ/Cyber-Bug-Videogame) · godot 4 · gdscript</sub>
-
-An action platformer made for the OpenClaw meetup. Fight the boss, survive the chaos.
-
----
-
-### 05 — Mangroves, seen from space
-
-<sub>[**spacehack-2026**](https://github.com/DweskZ/Spacehack2026) · python · jupyter</sub>
-
-Mangrove monitoring for Greater Guayaquil, built at a space-data hackathon.
+<a href="https://github.com/DweskZ/Spacehack2026">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-05-dark.svg">
+    <img src="./assets/works-05-light.svg" width="820" alt="05 — Mangroves, seen from space. spacehack-2026 (python, jupyter): mangrove monitoring for Greater Guayaquil, built at a space-data hackathon.">
+  </picture>
+</a>
 
 <p align="right"><sub><a href="https://github.com/DweskZ?tab=repositories">all repositories →</a></sub></p>
 
----
-
 <sub>STACK</sub>
 
-*typescript · javascript · python* &nbsp;—&nbsp; *react · vue · react native* &nbsp;—&nbsp; *node.js · fastapi · postgresql · supabase · bigquery* &nbsp;—&nbsp; *mcp · whisper · docker · gcp · godot*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <img src="./assets/stack-light.svg" width="820" alt="Stack — languages: typescript, javascript, python. Web and mobile: react, vue, react native. Backend: node.js, fastapi, postgresql, supabase, bigquery. AI and tools: mcp, whisper, docker, gcp, godot.">
+</picture>
 
 <sub>ACTIVITY</sub>
 
@@ -59,7 +57,7 @@ Mangrove monitoring for Greater Guayaquil, built at a space-data hackathon.
   <img src="https://ghchart.rshah.org/39d353/DweskZ" width="820" alt="Contribution graph">
 </p>
 
----
+<br>
 
 <p align="center">
   <img src="./assets/colophon.svg" width="380" alt="DWESK — build systems, learn deeply, iterate fast">

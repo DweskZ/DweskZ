@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="96" viewBox="0 0 820 96" role="img" aria-label="04 — Cyber Bug">
+  <text x="2" y="30" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#39d353">04</text>
+  <text x="44" y="32" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#e6edf3">Cyber Bug</text>
+  <text x="810" y="30" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#6e7681">cyber-bug · godot 4 · gdscript</text>
+  <text x="44" y="64" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="15" fill="#8b949e">An action platformer made for the OpenClaw meetup. Fight the boss, survive the chaos.</text>
+  <rect x="2" y="92" width="816" height="1" fill="#21262d"/>
+</svg>
