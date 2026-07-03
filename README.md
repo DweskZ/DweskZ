@@ -102,13 +102,6 @@ More experiments in the [repositories](https://github.com/DweskZ?tab=repositorie
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DweskZ&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="Top languages"/>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DweskZ/DweskZ/output/github-snake-dark.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/DweskZ/DweskZ/output/github-snake.svg">
-  </picture>
-</p>
-
 ---
 
 <p align="center">
