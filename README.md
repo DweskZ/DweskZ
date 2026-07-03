@@ -76,12 +76,16 @@
 
 <sub>ACTIVITY</sub>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/39d353/DweskZ" width="820" alt="Contribution graph">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DweskZ&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&hide_title=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DweskZ&bg_color=ffffff&color=57606a&line=0969da&point=0969da&area=true&area_color=0969da&hide_border=true&hide_title=true" width="820" alt="Contribution activity graph">
+</picture>
 
 <br>
 
 <p align="center">
-  <img src="./assets/colophon.svg" width="380" alt="DWESK — build systems, learn deeply, iterate fast">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/colophon-dark.svg">
+    <img src="./assets/colophon-light.svg" width="380" alt="DWESK — build systems, learn deeply, iterate fast">
+  </picture>
 </p>
