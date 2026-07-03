@@ -84,6 +84,14 @@
 <br>
 
 <p align="center">
+  <img src="./dwesk.gif" width="92" alt="Dwesk, the author, compiling">
+</p>
+
+<p align="center">
+  <sub><i>The author, compiling.</i></sub>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/colophon-dark.svg">
     <img src="./assets/colophon-light.svg" width="380" alt="DWESK — build systems, learn deeply, iterate fast">
