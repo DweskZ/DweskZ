@@ -42,6 +42,29 @@
   </picture>
 </a>
 
+<sub>IN COLLABORATION</sub>
+
+<a href="https://github.com/StevSant/hackiaton_agent_ai_3.0_frontend">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-06-dark.svg">
+    <img src="./assets/works-06-light.svg" width="820" alt="06 — Insurance fraud, flagged by AI. centinela-ia (angular, fastapi, langgraph): an AI agent that flags possible fraud in insurance claims — hackIAthon 2026, Aseguradora del Sur challenge. It alerts, never accuses. With StevSant and lesquel.">
+  </picture>
+</a>
+
+<a href="https://github.com/CarlosJChileS/Prompt-y-Reza">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-07-dark.svg">
+    <img src="./assets/works-07-light.svg" width="820" alt="07 — Construction bids, read by AI. prompt-y-reza (Viamatica hackIAthon): AI analysis of construction-tender documents — legal risks, human error and objective comparison between bidders. Top contributor — with CarlosJChileS and mintriago123.">
+  </picture>
+</a>
+
+<a href="https://github.com/CarlosJChileS/ArquitecturaLearnPro">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-08-dark.svg">
+    <img src="./assets/works-08-light.svg" width="820" alt="08 — An online academy, end to end. arquitectura-learnpro (react, supabase): a complete course platform — payments, subscriptions and thirty edge functions. With a team of five.">
+  </picture>
+</a>
+
 <p align="right"><sub><a href="https://github.com/DweskZ?tab=repositories">all repositories →</a></sub></p>
 
 <sub>STACK</sub>
