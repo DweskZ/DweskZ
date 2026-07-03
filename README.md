@@ -5,73 +5,108 @@
 <h1 align="center">Dwesk</h1>
 
 <p align="center">
-  Software Engineer · Backend · Full-Stack · Mobile
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=39D353&center=true&vCenter=true&width=600&lines=Software+Engineer+%C2%B7+Backend+%C2%B7+Full-Stack+%C2%B7+Mobile;AI-powered+systems%2C+built+end+to+end;Build+systems.+Learn+deeply.+Iterate+fast." alt="Typing intro">
 </p>
 
 <p align="center">
-  I build complete systems across web, backend and mobile.
+  <a href="https://github.com/DweskZ?tab=repositories">
+    <img src="https://img.shields.io/badge/repos-29-39D353?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="Repositories">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=DweskZ&color=39D353&style=flat-square&label=visitors" alt="Profile views">
 </p>
 
 ---
 
-##  About me
+## 💻 whoami
 
-I'm **Luis Figueroa**, a Software Engineering student based in **Manta, Ecuador** 🇪🇨.
+```console
+$ whoami
+Luis Figueroa — Software Engineering student · Manta, Ecuador 🇪🇨
 
-I work mainly on **backend and data-driven systems**, but I’m comfortable building full solutions that include **web and mobile applications** when the project requires it.
+$ cat focus.txt
+Backend & data-driven systems, with full web + mobile delivery
+when the project requires it.
+Lately: MCP servers, real-time speech pipelines, AI-assisted tools.
 
-I’ve worked with different stacks because I care more about **solving the problem properly** than being tied to a single tool.
+$ echo "$PHILOSOPHY"
+Structure before features.
+Databases are part of the design, not an afterthought.
+One stack per project — solve the problem properly.
+```
 
 ---
 
-## 🧠 How I approach software
+## 🚀 Featured Work
 
-- Structure before features  
-- Databases are part of the design, not an afterthought  
-- One stack per project, not everything mixed  
-- Learning by building end-to-end systems  
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **[EcuDataMCP](https://github.com/DweskZ/EcuDataMCP)** | MCP server that lets AI assistants (Claude, ChatGPT, Cursor) search and analyze Ecuador's open government data through conversation | Python · MCP |
+| **[Clinic Translate](https://github.com/DweskZ/InterpreterMedicalTranslation)** | Real-time EN ↔ ES translator for medical interpreters — system audio capture with Whisper, Deepgram and AssemblyAI engines | Python · Whisper |
+| **[Exposia](https://github.com/DweskZ/ExposiaClean)** | AI assistant that improves oral presentations — PDF analysis, speech transcription and filler-word detection | TypeScript · AI |
+| **[Cyber Bug](https://github.com/DweskZ/Cyber-Bug-Videogame)** | Action platformer built for the OpenClaw meetup — fight the boss, survive the chaos | Godot 4 · GDScript |
+| **[Spacehack 2026](https://github.com/DweskZ/Spacehack2026)** | Mangrove monitoring solution for Greater Guayaquil, built for a space-data hackathon | Python · Jupyter |
+
+More experiments in the [repositories](https://github.com/DweskZ?tab=repositories) section.
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages**
-- TypeScript · JavaScript · Python · Kotlin
 
-**Web Frontend**
-- React · Vue.js
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+</p>
 
-**Mobile**
-- Flutter · React Native
+**Web & Mobile**
 
-**Backend**
-- Node.js · NestJS · FastAPI
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+</p>
 
-**Databases**
-- PostgreSQL · MySQL · Supabase · Cassandra
+**Backend & Data**
 
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra">
+</p>
 
-**DevOps & Tools**
-- Docker · Git · GitHub Actions · Figma · AWS · GCR · Azure
+**Cloud & Tools**
 
----
-
-## 📌 Selected Work
-
-These projects represent how I design and build software in real scenarios.
-
-- **ExposIA** – Full-stack system with structured backend  
-- **LevelUp - GymTracker** – Mobile-first application (Flutter / React Native)  
-
-More work is available in the repositories section.
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" alt="Azure">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</p>
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DweskZ&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DweskZ&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DweskZ&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DweskZ&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DweskZ/DweskZ/output/github-snake-dark.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/DweskZ/DweskZ/output/github-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -81,5 +116,5 @@ More work is available in the repositories section.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=39D353&height=90&section=footer"/>
 </p>
