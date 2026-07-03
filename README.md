@@ -98,8 +98,12 @@ More experiments in the [repositories](https://github.com/DweskZ?tab=repositorie
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DweskZ&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DweskZ&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DweskZ&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DweskZ&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/39d353/DweskZ" width="820" alt="Contribution graph">
 </p>
 
 ---
