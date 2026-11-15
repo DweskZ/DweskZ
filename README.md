@@ -1,99 +1,42 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img src="./assets/header-light.svg" width="820" alt="Luis Figueroa — Manta, Ecuador. Builds systems, end to end. Software engineer: backend and data systems; now building MCP servers, speech pipelines and AI tools.">
+  <img src="./assets/header-light.svg" width="100%" alt="Luis Emilio Figueroa Arteaga — AI & Full-Stack Engineer. Manta, Ecuador; open to relocation or remote. An ASCII seascape with a vermilion sun setting over the sea.">
 </picture>
 
 <br>
 
-<sub>SELECTED WORKS</sub>
+**AI & Full-Stack Engineer with LLM agents in production**: vision, voice and document extraction in an ERP used daily, and CRM agents serving about 500 users a month. Based in Manta, Ecuador; open to relocation or remote.
 
-<a href="https://github.com/DweskZ/EcuDataMCP">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-01-dark.svg">
-    <img src="./assets/works-01-light.svg" width="820" alt="01 — Ecuador's open data, conversational. ecudata-mcp (python, mcp): an MCP server that lets AI assistants search and analyze Ecuador's open government data through plain conversation.">
-  </picture>
-</a>
+<br>
 
-<a href="https://github.com/DweskZ/InterpreterMedicalTranslation">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-02-dark.svg">
-    <img src="./assets/works-02-light.svg" width="820" alt="02 — Real-time medical interpretation. clinic-translate (python, whisper): EN-ES translation for clinical settings, transcribed live from system audio with Whisper, Deepgram and AssemblyAI engines.">
-  </picture>
-</a>
+<sub>SELECTED WORK</sub>
 
-<a href="https://github.com/DweskZ/ExposiaClean">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-03-dark.svg">
-    <img src="./assets/works-03-light.svg" width="820" alt="03 — Better oral presentations, with AI. exposia (typescript, ai): PDF analysis, speech transcription and filler-word detection — an assistant that helps students improve how they present.">
-  </picture>
-</a>
-
-<a href="https://github.com/DweskZ/Cyber-Bug-Videogame">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-04-dark.svg">
-    <img src="./assets/works-04-light.svg" width="820" alt="04 — Cyber Bug. cyber-bug (godot 4, gdscript): an action platformer made for the OpenClaw meetup. Fight the boss, survive the chaos.">
-  </picture>
-</a>
-
-<a href="https://github.com/DweskZ/Spacehack2026">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-05-dark.svg">
-    <img src="./assets/works-05-light.svg" width="820" alt="05 — Mangroves, seen from space. spacehack-2026 (python, jupyter): mangrove monitoring for Greater Guayaquil, built at a space-data hackathon.">
-  </picture>
-</a>
-
-<sub>IN COLLABORATION</sub>
-
-<a href="https://github.com/StevSant/hackiaton_agent_ai_3.0_frontend">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-06-dark.svg">
-    <img src="./assets/works-06-light.svg" width="820" alt="06 — Insurance fraud, flagged by AI. centinela-ia (angular, fastapi, langgraph): an AI agent that flags possible fraud in insurance claims — hackIAthon 2026, Aseguradora del Sur challenge. It alerts, never accuses. With StevSant and lesquel.">
-  </picture>
-</a>
-
-<a href="https://github.com/CarlosJChileS/Prompt-y-Reza">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-07-dark.svg">
-    <img src="./assets/works-07-light.svg" width="820" alt="07 — Construction bids, read by AI. prompt-y-reza (Viamatica hackIAthon): AI analysis of construction-tender documents — legal risks, human error and objective comparison between bidders. Top contributor — with CarlosJChileS and mintriago123.">
-  </picture>
-</a>
-
-<a href="https://github.com/CarlosJChileS/ArquitecturaLearnPro">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/works-08-dark.svg">
-    <img src="./assets/works-08-light.svg" width="820" alt="08 — An online academy, end to end. arquitectura-learnpro (react, supabase): a complete course platform — payments, subscriptions and thirty edge functions. With a team of five.">
-  </picture>
-</a>
+<table>
+  <tr><td nowrap><code>01</code></td><td nowrap><a href="https://github.com/DweskZ/EcuDataMCP"><b>EcuDataMCP</b></a></td><td>Open-source MCP server that connects AI assistants to Ecuador's official public data, queryable in natural language. Creator and co-maintainer; 22 releases.</td></tr>
+  <tr><td nowrap><code>02</code></td><td nowrap><a href="https://github.com/StevSant/hackiaton_agent_ai_3.0"><b>Centinela IA</b></a></td><td>Fraud triage for insurance claims: rules, LightGBM + SHAP, pgvector similarity and a voice-enabled LangGraph agent. <b>1st place</b>, HackIAthon Viamatica 2026. Team project; I led product and integrated and validated the system end to end.</td></tr>
+  <tr><td nowrap><code>03</code></td><td nowrap><b>Midas</b></td><td>Multi-agent market intelligence: a LangGraph supervisor with 6 specialist agents and pgvector RAG over live data. <b>3rd place</b>, ESPOL National Hackathon 2026. Team project; same role.</td></tr>
+  <tr><td nowrap><code>04</code></td><td nowrap><b>MasCamarón</b></td><td>Harvest decision engine for shrimp farms: a bioeconomic model that recommends when to harvest, with a FastAPI API, CLI and web UI.</td></tr>
+</table>
 
 <p align="right"><sub><a href="https://github.com/DweskZ?tab=repositories">all repositories →</a></sub></p>
 
 <sub>STACK</sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
-  <img src="./assets/stack-light.svg" width="820" alt="Stack — languages: typescript, javascript, python. Web and mobile: react, vue, react native. Backend: node.js, fastapi, postgresql, supabase, bigquery. AI and tools: mcp, whisper, docker, gcp, godot.">
-</picture>
+<table>
+  <tr><td nowrap><b>AI & LLMs</b></td><td>LangGraph · RAG · embeddings · vision and tool-use · MCP · OpenAI and Claude APIs</td></tr>
+  <tr><td nowrap><b>Machine Learning</b></td><td>LightGBM · Isolation Forest · SHAP · scikit-learn · pandas</td></tr>
+  <tr><td nowrap><b>Backend & Data</b></td><td>Python · FastAPI · REST APIs · SQL · PostgreSQL · pgvector · Supabase</td></tr>
+  <tr><td nowrap><b>Frontend & Mobile</b></td><td>TypeScript · Angular · Next.js · React Native</td></tr>
+  <tr><td nowrap><b>Cloud & DevOps</b></td><td>Docker · AWS · Git · GitHub Actions (CI/CD) · automated testing</td></tr>
+</table>
 
-<sub>ACTIVITY</sub>
+<sub>CONTACT</sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DweskZ&bg_color=0d1117&color=8b949e&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&hide_title=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DweskZ&bg_color=ffffff&color=57606a&line=0969da&point=0969da&area=true&area_color=0969da&hide_border=true&hide_title=true" width="820" alt="Contribution activity graph">
-</picture>
+[Portfolio](https://luis-figueroa-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/lufid12/) · [lfdwesk@gmail.com](mailto:lfdwesk@gmail.com)
 
 <br>
 
-<p align="center">
-  <img src="./dwesk.gif" width="92" alt="Dwesk, the author, compiling">
-</p>
-
-<p align="center">
-  <sub><i>The author, compiling.</i></sub>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/colophon-dark.svg">
-    <img src="./assets/colophon-light.svg" width="380" alt="DWESK — build systems, learn deeply, iterate fast">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <img src="./assets/footer-light.svg" width="100%" alt="DWESK — build systems, learn deeply, iterate fast. An ASCII sea horizon.">
+</picture>
